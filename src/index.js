@@ -13,8 +13,6 @@ class Person {
 
 }
 
-
-
 class Student extends Person{
 	constructor(name,age,number){
 		super(name,age)
