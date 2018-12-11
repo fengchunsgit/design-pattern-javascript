@@ -128,9 +128,3 @@ park.out(car1)
 console.log('车位数量:')
 console.log(park.emptyNum());
 
-
-
-
-
-
-
